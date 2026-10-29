@@ -12,7 +12,7 @@ To process subject marks, apply grace marks if needed, check pass criteria, and 
 4. Display total, result, and classification.
 
 ### 3. Flowchart
-```mermaide
+```mermide
 flowchart TD
     A([Start]) --> B[/Enter 3 subject marks/]
     B --> C[Apply grace marks]

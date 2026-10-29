@@ -12,7 +12,7 @@ To assign seats using nested lists, validate tickets, detect duplicate entries, 
 4. Assign seats and count available seats.
 5. Display the results.
 
-### 3. Flowchart (Mermaid)
+### 3. Flowchart 
 ```mermaid
 flowchart TD
     A([Start]) --> B[Create Seating List]

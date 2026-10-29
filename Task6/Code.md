@@ -11,7 +11,7 @@ To calculate passenger counts at each bus stop using boarding and alighting numb
 3. Calculate current passengers.
 4. Display passenger count and capacity status.
 
-### 3. Flowchart (Mermaid)
+### 3. Flowchart 
 ```mermaid
 
 flowchart TD

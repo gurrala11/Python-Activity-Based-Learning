@@ -12,7 +12,7 @@ Represent classrooms using nested lists, allocate students, preserve reserved se
 4. Check duplicate student names.
 5. Display vacant seat count.
 
-### 3. Flowchart (Mermaid)
+### 3. Flowchart 
 ```mermaid
 flowchart TD
     A([Start]) --> B[Create nested list]

@@ -12,7 +12,7 @@ Calculate traffic fines based on vehicle category, offence type, and repeat offe
 4. Display the total penalty and disqualification status.
 
 ### 3. Flowchart
-```memmaid
+```mermaid
 flowchart TD
     A([Start]) --> B[/Enter vehicle, offence, repeat status/]
     B --> C[Select fine amount]

@@ -11,7 +11,7 @@ Validate the seating matrix for duplicate roll numbers, reserved seats, empty se
 3. Find duplicate roll numbers.
 4. Display the validation results.
 
-### 3. Flowchart (Mermaid)
+### 3. Flowchart 
 ```mermaid
 
 flowchart TD
